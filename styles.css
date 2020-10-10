@@ -58,7 +58,7 @@ a:hover {
 header {
   text-align: center;
   padding: 30px;
-  background: url('images/ldn.jpg') no-repeat top center ;
+  background: url('images/steve.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -85,8 +85,9 @@ header {
   color: black;
   padding: 10px;
   border-radius: 5px;
-  display: inline;
+  display: inline-flex;
   margin: 10px auto;
+
 
 }
 .location {
@@ -185,7 +186,7 @@ a.social:hover {
   }
 
   header {
-    min-height: 200px;
+    min-height: 40px;
   }
 
   .nav {
@@ -211,6 +212,10 @@ a.social:hover {
 
   img {
     vertical-align: middle;
+  }
+  .qualificatons{
+
+
   }
 
 }
